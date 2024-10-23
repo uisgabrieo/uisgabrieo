@@ -6,7 +6,7 @@
 
 
 
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/luís-gabriel-salvador-barros-8b3399276/)
+[![Linkedin: luisgabriel](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/luís-gabriel-salvador-barros-8b3399276/)
 ____
 
 
@@ -41,5 +41,5 @@ Essas são as principais tecnologias que eu estudei atualmente.
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Estudo Atual:
-![Angular](https://img.shields.io/badge/Angular-D50032?style=flat-square&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI1MCIgdmlld0JveD0iMCAwIDI1MCAyNTAiIHdpZHRoPSIyNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgaGVpZ2h0PSIyNTAiIHdpZHRoPSIyNTAiIGZpbGw9IiMyQ0I1RDciLz48Y2lyY2xlIGN4PSIxMjUiIGN5PSIxMjUiIGZpbGw9IiNGRkZGRkYiIHI9IjYwIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iOCIvPjxwYXRoIGQ9Ik0xMjUgMTEwIGM1MC41MiAwIDcwIDM1IDcwIDM1aC0xNDAgcyAxOS41LTUgNzAtMzUgWiIgZmlsbD0iIzEyMzQ1NiIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjgiLz48bGluZSB4MT0iMTA1IiB4Mj0iMTA1IiB5MT0iMTA1IiB5Mj0iMTkwIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iOCIvPjxsaW5lIHgxPSIxNDUiIHgyPSIxNDUiIHkxPSIxMTAiIHkyPSIxOTAiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSI4Ii8+PC9zdmc+&logoColor=white)
+
