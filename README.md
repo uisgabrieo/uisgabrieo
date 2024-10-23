@@ -41,5 +41,6 @@ Essas são as principais tecnologias que eu estudei atualmente.
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Estudo Atual:
-![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI1MCIgdmlld0JveD0iMCAwIDI1MCAyNTAiIHdpZHRoPSIyNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgaGVpZ2h0PSIyNTAiIHdpZHRoPSIyNTAiIGZpbGw9IiMyQ0I1RDciLz48Y2lyY2xlIGN4PSIxMjUiIGN5PSIxMjUiIGZpbGw9IiNGRkZGRkYiIHI9IjYwIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iOCIvPjxwYXRoIGQ9Ik0xMjUgMTEwIGM1MC41MiAwIDcwIDM1IDcwIDM1aC0xNDAgcyAxOS41LTUgNzAtMzUgWiIgZmlsbD0iIzEyMzQ1NiIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjgiLz48bGluZSB4MT0iMTA1IiB4Mj0iMTA1IiB5MT0iMTA1IiB5Mj0iMTkwIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iOCIvPjxsaW5lIHgxPSIxNDUiIHgyPSIxNDUiIHkxPSIxMTAiIHkyPSIxOTAiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSI4Ii8+PC9zdmc+&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-00A1E4?style=flat-square&logo=jupyter&logoColor=white)
 
