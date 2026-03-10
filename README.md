@@ -1,6 +1,6 @@
 ### ✨ Olá, meu nome é Luís Gabriel 👋
 
-📚 Estudante de Engenharia de Software - 6° Período
+📚 Estudante de Engenharia de Software - 7° Período
 
 🎯 Busco aprimorar meu conhecimento e desenvolver capacidades e habilidades
 
